@@ -34,9 +34,9 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 | | Sample Behavior | Input | Output | isComplete |
 |----|----|----|----|----|
-|1.| The program will be able to store a user submitted journal entry Title, and content in a journal entry object | N/A | N/A | _False_|
-|2.|The program accepts a journal entry. The program outputs the number of vowels per entry |The cat walked down the street| 8 vowels | _False_|
-|3.|The program accepts a journal entry. The program outputs the number of consonants per entry | Today is a beautiful day| 8 consonants | _False_ | 
+|1.| The program will be able to store a user submitted journal entry Title, and content in a journal entry object | N/A | N/A | _True_|
+|2.|The program accepts a journal entry. The program outputs the number of vowels per entry |The cat walked down the street| 8 vowels | _True_|
+|3.|The program accepts a journal entry. The program outputs the number of consonants per entry | Today is a beautiful day| 8 consonants | _True_ | 
 |4.| The program accepts a journal entry. The program outputs the first sentence with a max of 8 words |I had a wonderful day |  I had a wonderful day|  _False_
 
 ### License
